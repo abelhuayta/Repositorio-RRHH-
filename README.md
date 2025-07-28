@@ -63,7 +63,7 @@
   <!-- Pie de página -->
   <footer class="text-center text-sm text-gray-500">
     <p>Universidad Nacional de San Agustín de Arequipa — Escuela Profesional de Ingeniería de Sistemas</p>
-    <p>Curso: Introducción al Desarrollo de Software</p>
+    <p>Curso: RELACIONES HUMANAS EN EMPRESAS DE DESARROLLO DE SOFTWARE Y BASE TECNOLÓGICA</p>
     <p>Fecha: Julio 2025</p>
   </footer>
 
