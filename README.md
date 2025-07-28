@@ -44,6 +44,8 @@
     <h2 class="text-2xl font-semibold mb-4">Índice de Contenidos</h2>
     <ul class="list-decimal pl-6 space-y-2 text-lg">
       <li><a href="Conceptos_a_tener_en_cuenta.md" class="text-blue-700 hover:underline">conceptos a tener en cuenta</a></li>
+      <li><a href="Conocindo_Git.md" class="text-blue-700 hover:underline">conociendo Git</a></li>
+      <li><a href="Conociendo_Github.md" class="text-blue-700 hover:underline">Conociendo Github</a></li>
       <li><a href="frontend.md" class="text-blue-700 hover:underline">Frontend Developer</a></li>
       <li><a href="backend.md" class="text-green-700 hover:underline">Backend Developer</a></li>
       <li><a href="android.md" class="text-purple-700 hover:underline">Android Developer</a></li>
