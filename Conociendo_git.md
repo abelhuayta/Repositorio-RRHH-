@@ -2,40 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <title>Conociendo Git</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f9ff;
-      padding: 30px;
-      line-height: 1.7;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    code {
-      background-color: #eaeaea;
-      padding: 2px 5px;
-      border-radius: 4px;
-      font-family: Consolas, monospace;
-    }
-    pre {
-      background-color: #f0f0f0;
-      padding: 10px;
-      border-radius: 6px;
-      overflow-x: auto;
-    }
-    a {
-      color: #2980b9;
-      text-decoration: none;
-    }
-  </style>
-</head>
-<body>
-
+ 
 <h1>📁 Conociendo Git</h1>
 
 <p>
