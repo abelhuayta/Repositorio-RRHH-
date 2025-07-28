@@ -6,68 +6,54 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
+      background-color: #f0fff5;
       padding: 30px;
       line-height: 1.7;
     }
     h1, h2 {
-      color: #2c3e50;
+      color: #1c7c54;
     }
     ul {
       margin-left: 20px;
     }
     a {
-      color: #2980b9;
+      color: #009966;
       text-decoration: none;
     }
   </style>
 </head>
 <body>
 
-  <h1>Rol: Frontend Developer</h1>
+<h1>Rol: Frontend Developer</h1>
 
-  <p>
-    El desarrollador frontend es el encargado de construir la parte visual e interactiva de una aplicación web, es decir, todo lo que el usuario ve y con lo que interactúa directamente. Su trabajo es esencial para garantizar una experiencia de usuario fluida, intuitiva y estética.
-  </p>
+<p>
+  El desarrollador Frontend es responsable de crear la interfaz visual de una aplicación web. Es quien traduce los diseños en código funcional que los usuarios ven e interactúan directamente en el navegador.
+</p>
 
-  <h2>Responsabilidades principales</h2>
-  <ul>
-    <li>Diseñar e implementar interfaces de usuario usando tecnologías web (HTML, CSS, JavaScript).</li>
-    <li>Asegurar que la aplicación sea responsiva y se adapte a distintos dispositivos.</li>
-    <li>Colaborar con diseñadores y backend developers para integrar datos y funcionalidades.</li>
-    <li>Optimizar el rendimiento del sitio para una experiencia rápida y fluida.</li>
-  </ul>
+<h2>Responsabilidades principales</h2>
+<ul>
+  <li>Convertir diseños en código HTML, CSS y JavaScript.</li>
+  <li>Crear interfaces interactivas y adaptativas (responsive).</li>
+  <li>Optimizar el rendimiento y accesibilidad de la web.</li>
+  <li>Conectarse con servicios backend mediante APIs.</li>
+</ul>
 
-  <h2>Habilidades necesarias</h2>
-  <ul>
-    <li>Dominio de HTML5, CSS3 y JavaScript.</li>
-    <li>Conocimiento de frameworks/librerías como React, Vue o Angular.</li>
-    <li>Manejo de herramientas de control de versiones como Git.</li>
-    <li>Capacidad de trabajar con APIs REST para consumir datos.</li>
-    <li>Uso de herramientas como Figma o Adobe XD para interpretar diseños UI/UX.</li>
-  </ul>
+<h2>Herramientas comunes</h2>
+<ul>
+  <li><strong>Lenguajes:</strong> HTML5, CSS3, JavaScript</li>
+  <li><strong>Frameworks:</strong> React.js, Vue.js, Angular</li>
+  <li><strong>Otras herramientas:</strong> Git, Figma, TailwindCSS</li>
+</ul>
 
-  <h2>Herramientas comunes</h2>
-  <ul>
-    <li>Visual Studio Code</li>
-    <li>Chrome DevTools</li>
-    <li>Git y GitHub</li>
-    <li>React, Vue.js, Bootstrap, Tailwind CSS</li>
-    <li>Postman (para probar APIs)</li>
-  </ul>
-
-  <h2>Cursos gratuitos recomendados</h2>
-  <ul>
-    <li><a href="https://www.freecodecamp.org/learn/responsive-web-design/" target="_blank">Responsive Web Design - FreeCodeCamp</a></li>
-    <li><a href="https://www.codecademy.com/learn/learn-html" target="_blank">Learn HTML - Codecademy</a></li>
-    <li><a href="https://www.youtube.com/playlist?list=PLPl81lqbj-4IyioC7O3yy6UcVndBv5KWs" target="_blank">Curso completo de JavaScript - YouTube (Píldoras Informáticas)</a></li>
-  </ul>
-
-  <h2>Importancia dentro del proyecto RRHH</h2>
-  <p>
-    En este proyecto, el Frontend Developer es clave para desarrollar una interfaz clara y amigable que permita a los usuarios (por ejemplo, el personal de Recursos Humanos) interactuar con el sistema de forma intuitiva. Es el responsable de traducir los requisitos funcionales y visuales en una experiencia de usuario efectiva.
-  </p>
+<h2>🎓 Cursos gratuitos recomendados</h2>
+<ul>
+  <li><a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp - Responsive Web Design y JavaScript (gratis)</a></li>
+  <li><a href="https://www.codecademy.com/learn/paths/front-end-engineer-career-path" target="_blank">Codecademy - Frontend Engineer Path (modo free limitado)</a></li>
+  <li><a href="https://www.udemy.com/course/web-completo/" target="_blank">Udemy - Desarrollo Web Completo (curso gratuito)</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLPl81lqbj-4JknZ5ckbK5QhoC8PW5NhvM" target="_blank">YouTube - Curso de Frontend desde cero</a></li>
+</ul>
 
 </body>
 </html>
+
 
