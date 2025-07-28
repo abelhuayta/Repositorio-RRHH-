@@ -47,6 +47,32 @@ git push -u origin main</code></pre>
 <p>Cada integrante descarga una copia del repositorio a su máquina local:</p>
 <pre><code>git clone https://github.com/usuario/proyecto.git
 cd proyecto</code></pre>
+<h2>🔹 ¿Cómo se supervisan y resuelven conflictos?</h2>
+<p>
+  Cuando varias personas trabajan sobre los mismos archivos, pueden ocurrir conflictos de código al combinar los cambios. Git los detecta automáticamente y requiere intervención manual para resolverlos.
+</p>
+
+<h3>Buenas prácticas para evitarlos:</h3>
+<ul>
+  <li>Usar ramas: cada desarrollador trabaja en su propia rama.</li>
+</ul>
+<pre><code>git checkout -b nombre-rama</code></pre>
+
+<ul>
+  <li>Actualizar con frecuencia el repositorio local para obtener los últimos cambios:</li>
+</ul>
+<pre><code>git pull origin main</code></pre>
+
+<h3>¿Qué pasa si hay un conflicto?</h3>
+<ul>
+  <li>Se marcarán los archivos en conflicto.</li>
+  <li>El desarrollador debe editar manualmente los archivos para decidir qué código conservar.</li>
+</ul>
+
+<p>Luego de resolver el conflicto:</p>
+<pre><code>git add archivo-conflicto
+git commit -m "Conflicto resuelto"</code></pre>
+
 
 </body>
 </html>
