@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <title>Rol: Android Developer</title>
+  <title>Conocimientos a tener en cuenta</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -24,33 +24,30 @@
 </head>
 <body>
 
-<h1>Rol: Android Developer</h1>
+<h1>📚 Conocimientos a tener en cuenta</h1>
 
 <p>
-  El desarrollador Android se encarga de crear aplicaciones móviles nativas para dispositivos con sistema operativo Android. Usa principalmente el lenguaje Kotlin o Java y trabaja con herramientas como Android Studio.
+  Para desempeñarte como desarrollador Android o en cualquier entorno de desarrollo móvil, es importante dominar una serie de conocimientos técnicos que forman la base del trabajo profesional. Estos conocimientos no solo mejoran tu productividad, sino que también garantizan la calidad del software que desarrollas.
 </p>
 
-<h2>Responsabilidades principales</h2>
+<h2>Temas fundamentales</h2>
 <ul>
-  <li>Diseñar interfaces de usuario amigables y funcionales.</li>
-  <li>Implementar lógica de negocio dentro de las apps móviles.</li>
-  <li>Integrar APIs y servicios externos.</li>
-  <li>Optimizar rendimiento y asegurar compatibilidad entre versiones de Android.</li>
+  <li>Programación orientada a objetos (POO) con Kotlin y Java.</li>
+  <li>Ciclo de vida de actividades y fragmentos en Android.</li>
+  <li>Diseño de interfaces gráficas con XML y Jetpack Compose.</li>
+  <li>Consumo de APIs REST con Retrofit o Volley.</li>
+  <li>Manejo de bases de datos locales como Room y SQLite.</li>
+  <li>Buenas prácticas de arquitectura (como MVVM o Clean Architecture).</li>
+  <li>Pruebas unitarias y pruebas de interfaz (JUnit, Espresso).</li>
+  <li>Uso de herramientas de control de versiones como Git y GitHub.</li>
 </ul>
 
-<h2>Herramientas comunes</h2>
+<h2>Recursos útiles</h2>
 <ul>
-  <li><strong>Lenguajes:</strong> Kotlin, Java</li>
-  <li><strong>Entorno:</strong> Android Studio</li>
-  <li><strong>Frameworks:</strong> Jetpack, Firebase, Retrofit</li>
-</ul>
-
-<h2>🎓 Cursos gratuitos recomendados</h2>
-<ul>
-  <li><a href="https://developer.android.com/courses/android-basics-kotlin/course" target="_blank">Google - Android Basics in Kotlin (Gratis)</a></li>
-  <li><a href="https://www.udemy.com/course/android-app-development-with-kotlin/" target="_blank">Udemy - Curso de desarrollo Android con Kotlin (gratis)</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE" target="_blank">YouTube - Curso de Android Studio desde cero</a></li>
-  <li><a href="https://www.coursera.org/learn/developing-android-apps" target="_blank">Coursera - Developing Android Apps (gratis con modo auditoría)</a></li>
+  <li><a href="https://developer.android.com/guide" target="_blank">Guía oficial de desarrollo Android</a></li>
+  <li><a href="https://developer.android.com/jetpack" target="_blank">Jetpack: Componentes modernos de Android</a></li>
+  <li><a href="https://developer.android.com/kotlin" target="_blank">Kotlin para Android Developers</a></li>
+  <li><a href="https://developer.android.com/topic/libraries/architecture" target="_blank">Guía de arquitecturas recomendadas</a></li>
 </ul>
 
 </body>
