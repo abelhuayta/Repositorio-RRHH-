@@ -2,30 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <title>Conocimientos: Librerías, Frameworks y Patrones</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f9ff;
-      padding: 30px;
-      line-height: 1.7;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    a {
-      color: #2980b9;
-      text-decoration: none;
-    }
-    strong {
-      color: #2c3e50;
-    }
-  </style>
-</head>
-<body>
+ 
 
 <h1>📚 Conocimientos a tener en cuenta</h1>
 
