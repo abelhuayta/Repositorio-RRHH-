@@ -27,12 +27,15 @@
 <h1>Rol: Android Developer</h1>
 
 <p>
-  El desarrollador Android se encarga de crear aplicaciones móviles nativas para dispositivos con sistema operativo Android. Usa principalmente el lenguaje Kotlin o Java y trabaja con herramientas como Android Studio.
+  El desarrollador Android se encarga de crear aplicaciones móviles nativas para dispositivos con sistema operativo Android. Usa principalmente el lenguaje Kotlin o Java y trabaja con herramientas como Android Studio.Además, debe mantenerse actualizado con las últimas tecnologías y tendencias en desarrollo móvil. Se enfoca en ofrecer experiencias de usuario fluidas, funcionales y alineadas con las directrices de diseño de Android.
 </p>
 
 <h2>Responsabilidades principales</h2>
 <ul>
   <li>Diseñar interfaces de usuario amigables y funcionales.</li>
+  <li>Diseñar y desarrollar apps móviles.</li>
+  <li>Implementar interfaces de usuario (UI)</li>
+  <li>Uso de arquitecturas como MVVM o Clean Architecture</li>
   <li>Implementar lógica de negocio dentro de las apps móviles.</li>
   <li>Integrar APIs y servicios externos.</li>
   <li>Optimizar rendimiento y asegurar compatibilidad entre versiones de Android.</li>
@@ -42,7 +45,14 @@
 <ul>
   <li><strong>Lenguajes:</strong> Kotlin, Java</li>
   <li><strong>Entorno:</strong> Android Studio</li>
-  <li><strong>Frameworks:</strong> Jetpack, Firebase, Retrofit</li>
+  <li><strong>Frameworks:</strong> Jetpack, Firebase, Retrofit, Dagger,Coroutines  </li>
+</ul>
+
+<h2>Relación con los demas roles</h2>
+<ul>
+  <li><strong>Backend: El backend es el "cerebro" y el "almacén de datos". Se encarga de la lógica de negocio, la gestión de bases de datos, la autenticación de usuarios, y la creación de APIs (Application Programming Interfaces).</li>
+ <li><strong>Frontend: Los desarrolladores Android usan las APIs del backend para construir la interfaz de usuario y la lógica de la aplicación que interactuará con el usuario.</li>
+  <li><strong>QA: El equipo de QA prueba la aplicación Android (que ya se comunica con el backend) a fondo.</li>
 </ul>
 
 <h2>🎓 Cursos gratuitos recomendados</h2>
