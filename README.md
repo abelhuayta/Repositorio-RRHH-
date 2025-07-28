@@ -50,6 +50,7 @@
       <li><a href="backend.md" class="text-green-700 hover:underline">Backend Developer</a></li>
       <li><a href="android.md" class="text-purple-700 hover:underline">Android Developer</a></li>
       <li><a href="qa.md" class="text-red-700 hover:underline">QA Tester</a></li>
+      <li><a href="Pasos_a_desarrollar.md" class="text-red-700 hover:underline">Pasos a desarrollar</a></li>
     </ul>
   </section>
 
