@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <title>Conocimientos a tener en cuenta</title>
+  <title>Conocimientos: Librerías, Frameworks y Patrones</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -10,7 +10,7 @@
       padding: 30px;
       line-height: 1.7;
     }
-    h1, h2 {
+    h1, h2, h3 {
       color: #2c3e50;
     }
     ul {
@@ -20,34 +20,85 @@
       color: #2980b9;
       text-decoration: none;
     }
+    strong {
+      color: #2c3e50;
+    }
   </style>
 </head>
 <body>
 
 <h1>📚 Conocimientos a tener en cuenta</h1>
 
+<h2>1) Conceptos Generales para tener en cuenta</h2>
+
 <p>
-  Para desempeñarte como desarrollador Android o en cualquier entorno de desarrollo móvil, es importante dominar una serie de conocimientos técnicos que forman la base del trabajo profesional. Estos conocimientos no solo mejoran tu productividad, sino que también garantizan la calidad del software que desarrollas.
+En el contexto del desarrollo web y móvil, es importante distinguir entre tres conceptos fundamentales: <strong>librerías</strong>, <strong>frameworks</strong> y <strong>patrones de diseño</strong>. Comprender estas diferencias permite tomar mejores decisiones técnicas al construir aplicaciones.
 </p>
 
-<h2>Temas fundamentales</h2>
+<h3>Librerías</h3>
+<p>
+Una librería es un conjunto de funciones, clases o herramientas que resuelven tareas específicas. Se utiliza cuando el programador necesita una funcionalidad concreta y quiere evitar escribirla desde cero. La ventaja es que el programador mantiene el control total del flujo del programa.
+</p>
+<p>Por ejemplo, una librería de manipulación de fechas, validación de formularios o animaciones.</p>
+
+<strong>Características principales:</strong>
 <ul>
-  <li>Programación orientada a objetos (POO) con Kotlin y Java.</li>
-  <li>Ciclo de vida de actividades y fragmentos en Android.</li>
-  <li>Diseño de interfaces gráficas con XML y Jetpack Compose.</li>
-  <li>Consumo de APIs REST con Retrofit o Volley.</li>
-  <li>Manejo de bases de datos locales como Room y SQLite.</li>
-  <li>Buenas prácticas de arquitectura (como MVVM o Clean Architecture).</li>
-  <li>Pruebas unitarias y pruebas de interfaz (JUnit, Espresso).</li>
-  <li>Uso de herramientas de control de versiones como Git y GitHub.</li>
+  <li>Proporciona utilidades específicas.</li>
+  <li>El desarrollador decide cuándo y cómo usarla.</li>
+  <li>No impone una estructura de proyecto.</li>
 </ul>
 
-<h2>Recursos útiles</h2>
+<strong>Ejemplos comunes:</strong>
 <ul>
-  <li><a href="https://developer.android.com/guide" target="_blank">Guía oficial de desarrollo Android</a></li>
-  <li><a href="https://developer.android.com/jetpack" target="_blank">Jetpack: Componentes modernos de Android</a></li>
-  <li><a href="https://developer.android.com/kotlin" target="_blank">Kotlin para Android Developers</a></li>
-  <li><a href="https://developer.android.com/topic/libraries/architecture" target="_blank">Guía de arquitecturas recomendadas</a></li>
+  <li>React (JavaScript): aunque también puede considerarse una librería para construir interfaces.</li>
+  <li>jQuery: para manipulación del DOM.</li>
+  <li>Lodash: funciones de utilidad para trabajar con arrays, objetos y strings.</li>
+  <li>Axios: para hacer peticiones HTTP.</li>
+</ul>
+
+<h3>Frameworks</h3>
+<p>
+Un framework es una estructura de trabajo más amplia que proporciona herramientas, reglas y una arquitectura definida para desarrollar una aplicación. A diferencia de una librería, el framework dicta cómo debe organizarse el código y el flujo del programa. Es decir, el programador debe adaptarse al marco del framework.
+</p>
+<p>
+Esto permite mayor rapidez y consistencia en el desarrollo, especialmente en proyectos grandes o en equipos.
+</p>
+
+<strong>Características principales:</strong>
+<ul>
+  <li>Define la arquitectura del proyecto.</li>
+  <li>Controla el flujo de ejecución (inversión de control).</li>
+  <li>Suele integrar múltiples funcionalidades (ruteo, autenticación, base de datos, etc.).</li>
+</ul>
+
+<strong>Ejemplos comunes:</strong>
+<ul>
+  <li><strong>Frontend:</strong> Angular, Vue.js</li>
+  <li><strong>Backend:</strong> Django (Python), Laravel (PHP), Express (Node.js)</li>
+  <li><strong>Móvil:</strong> Flutter, React Native</li>
+</ul>
+
+<h3>Patrones de Diseño</h3>
+<p>
+Los patrones de diseño son soluciones probadas y reutilizables a problemas comunes que surgen al desarrollar software. No son fragmentos de código, sino formas de estructurarlo para que sea más mantenible, escalable y fácil de entender.
+</p>
+<p>
+Se utilizan en todos los niveles del desarrollo (frontend, backend, móvil) y promueven buenas prácticas en programación orientada a objetos y arquitectura de software.
+</p>
+
+<strong>Características principales:</strong>
+<ul>
+  <li>No dependen del lenguaje de programación.</li>
+  <li>Mejoran la organización del código.</li>
+  <li>Fomentan la reutilización y escalabilidad.</li>
+</ul>
+
+<strong>Ejemplos comunes:</strong>
+<ul>
+  <li>MVC (Modelo-Vista-Controlador): separa la lógica de datos, la lógica de presentación y la lógica de control.</li>
+  <li>Singleton: asegura que una clase tenga solo una instancia.</li>
+  <li>Observer: permite que objetos se suscriban y reciban notificaciones de cambios.</li>
+  <li>Factory: delega la creación de objetos a subclases.</li>
 </ul>
 
 </body>
