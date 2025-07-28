@@ -27,42 +27,31 @@
 <h1>Rol: Backend Developer</h1>
 
 <p>
-  El desarrollador backend se encarga de crear y mantener la lógica del servidor, bases de datos, autenticación, y toda la infraestructura que no se ve pero que hace que una aplicación funcione correctamente.
+  El desarrollador backend se encarga de programar la lógica del servidor, manejar la base de datos, asegurar la seguridad del sistema, y conectar con la parte frontend mediante APIs.
 </p>
 
 <h2>Responsabilidades principales</h2>
 <ul>
-  <li>Diseñar y mantener bases de datos eficientes.</li>
-  <li>Desarrollar APIs RESTful y servicios web.</li>
-  <li>Implementar la lógica del servidor y manejar la autenticación/autorización.</li>
-  <li>Optimizar el rendimiento y la seguridad del sistema.</li>
-  <li>Colaborar con el frontend para integrar servicios.</li>
+  <li>Diseñar la arquitectura del servidor y base de datos.</li>
+  <li>Crear y documentar APIs para el frontend.</li>
+  <li>Implementar autenticación y autorización.</li>
+  <li>Monitorear y optimizar el rendimiento del sistema.</li>
 </ul>
 
-<h2>Tecnologías comunes</h2>
+<h2>Herramientas comunes</h2>
 <ul>
-  <li>Lenguajes: Node.js, Python, Java, Ruby</li>
-  <li>Bases de datos: PostgreSQL, MySQL, MongoDB</li>
-  <li>Frameworks: Express, Django, Spring Boot</li>
-  <li>Herramientas: Docker, Git, Postman</li>
+  <li><strong>Lenguajes:</strong> Node.js, Python, Java</li>
+  <li><strong>Bases de datos:</strong> MongoDB, MySQL, PostgreSQL</li>
+  <li><strong>Frameworks:</strong> Express.js, Django, Spring Boot</li>
 </ul>
 
-<h2>Ejemplo básico (Node.js + Express)</h2>
-<pre>
-<code>
-const express = require('express');
-const app = express();
-
-app.get('/', (req, res) => {
-  res.send('Hola desde el backend');
-});
-
-app.listen(3000, () => {
-  console.log('Servidor ejecutándose en puerto 3000');
-});
-</code>
-</pre>
+<h2>🎓 Cursos gratuitos recomendados</h2>
+<ul>
+  <li><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/" target="_blank">FreeCodeCamp - Back End Development and APIs</a></li>
+  <li><a href="https://www.codecademy.com/learn/learn-express" target="_blank">Codecademy - Learn Express.js</a></li>
+  <li><a href="https://www.edx.org/learn/backend-development" target="_blank">edX - Cursos de Backend gratuitos</a></li>
+  <li><a href="https://roadmap.sh/backend" target="_blank">Roadmap.sh - Guía para ser Backend Developer</a></li>
+</ul>
 
 </body>
 </html>
-
