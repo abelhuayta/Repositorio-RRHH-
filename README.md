@@ -10,7 +10,7 @@
   <!-- Encabezado principal -->
   <header class="mb-12 text-center">
     <h1 class="text-4xl font-bold mb-2 text-blue-700">Guía de Roles en Desarrollo de Software</h1>
-    <p class="text-lg text-gray-600">Trabajo colaborativo del grupo sobre los perfiles clave en el mundo del desarrollo de aplicaciones modernas</p>
+    <p class="text-lg text-gray-600">Este apartado detalla cómo iniciar el proyecto colaborativo en GitHub, desde la creación del repositorio hasta su configuración para trabajo en equipo.</p>
   </header>
 
   <!-- Introducción -->
