@@ -43,10 +43,10 @@
   <section class="mb-12 max-w-3xl mx-auto">
     <h2 class="text-2xl font-semibold mb-4">Índice de Contenidos</h2>
     <ul class="list-decimal pl-6 space-y-2 text-lg">
-      <li><a href="frontend.html" class="text-blue-700 hover:underline">Frontend Developer</a></li>
-      <li><a href="backend.html" class="text-green-700 hover:underline">Backend Developer</a></li>
-      <li><a href="android.html" class="text-purple-700 hover:underline">Android Developer</a></li>
-      <li><a href="qa.html" class="text-red-700 hover:underline">QA Tester</a></li>
+      <li><a href="frontend.md" class="text-blue-700 hover:underline">Frontend Developer</a></li>
+      <li><a href="backend.md" class="text-green-700 hover:underline">Backend Developer</a></li>
+      <li><a href="android.md" class="text-purple-700 hover:underline">Android Developer</a></li>
+      <li><a href="qa.md" class="text-red-700 hover:underline">QA Tester</a></li>
     </ul>
   </section>
 
